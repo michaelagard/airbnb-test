@@ -1,3 +1,7 @@
+# ReactJS Airbnb test
+
+This repo contains a collection of components and views related to the website AirBNB to showcase my interpretation of the site.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
